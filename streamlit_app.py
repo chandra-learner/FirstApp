@@ -1,5 +1,4 @@
+import streamlit
 
-import streamlit as st
-
-st.title('Welcome to the FirstApp')
+streamlit.title('Welcome to the FirstApp')
 
