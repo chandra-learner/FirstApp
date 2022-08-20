@@ -1,4 +1,4 @@
 import streamlit
 
-streamlit.title('Welcome to the FirstApp')
+streamlit.write('Welcome to the FirstApp')
 
